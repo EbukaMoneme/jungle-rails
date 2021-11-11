@@ -1,0 +1,13 @@
+<tr>
+  <td>
+    <%= category.name %>
+  </td>
+  <td>
+    <% category.products.each do |product| %>
+			<div class="col-md-2" style="text-align: center">
+				<img src=<%= product.image.tiny%> alt=<%= product.name%>>  
+				<span class="badge bg-dark"><%= product.name%></span> 
+    	</div>   
+    <% end %>
+  </td>
+</tr>
