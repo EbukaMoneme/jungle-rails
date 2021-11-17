@@ -1,6 +1,14 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2.
+
+## Final Product
+
+!["Products Page"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/Mondays-Interviews.png?raw=true)
+
+!["Admin Dashboard"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/New-Interview.png?raw=true)
+
+!["Admin Categories"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/Updated-Interviews.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
