@@ -4,11 +4,11 @@ A mini e-commerce application built with Rails 4.2.
 
 ## Final Product
 
-!["Products Page"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/Mondays-Interviews.png?raw=true)
+!["Products Page"](https://github.com/EbukaMoneme/jungle-rails/blob/master/docs/ProductsPage.png?raw=true)
 
-!["Admin Dashboard"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/New-Interview.png?raw=true)
+!["Admin Dashboard"](https://github.com/EbukaMoneme/jungle-rails/blob/master/docs/AdminDashboard.png?raw=true)
 
-!["Admin Categories"](https://github.com/EbukaMoneme/scheduler/blob/master/docs/Updated-Interviews.png?raw=true)
+!["Admin Categories"](https://github.com/EbukaMoneme/jungle-rails/blob/master/docs/AdminCategories.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
